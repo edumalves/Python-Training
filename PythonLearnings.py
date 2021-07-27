@@ -1,1 +1,1 @@
-print("hello world")
+pip install -U pip
